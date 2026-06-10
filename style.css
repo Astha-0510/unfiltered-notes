@@ -118,3 +118,41 @@ body {
 .topic-links a:hover {
   color: #e8e0d5;
 }
+.theory-page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 60px 30px;
+}
+
+.back-btn {
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #666;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.back-btn:hover {
+  color: #e8e0d5;
+}
+
+.theory-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 300;
+  font-size: 2.5rem;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #e8e0d5;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.notebook-photo img {
+  width: 100%;
+  max-width: 650px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  display: block;
+}
